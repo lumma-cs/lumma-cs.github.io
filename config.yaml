@@ -1,15 +1,9 @@
 baseURL: "https://lumma-cs.github.io/"
-languageCode: "en-us"
 title: "Lumma Creative Studio"
-theme: "PaperMod"
+theme: PaperMod
+
+publishDir: public
 
 outputs:
   home:
     - HTML
-
-
-params:
-  defaultTheme: light
-  ShowReadingTime: false
-  ShowShareButtons: false
-  ShowPostNavLinks: false
