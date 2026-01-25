@@ -1,8 +1,31 @@
 baseURL: "https://lumma-cs.github.io/"
 title: "Lumma Creative Studio"
-
+theme: PaperMod
 publishDir: public
+
+languageCode: en-us
+defaultContentLanguage: en
 
 outputs:
   home:
     - HTML
+
+params:
+  description: "Creative studio behind Aya Fun English and Aya The Little Muslim"
+  author: "Lumma Creative Studio"
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
