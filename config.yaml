@@ -1,6 +1,5 @@
 baseURL: "https://lumma-cs.github.io/"
 title: "Lumma Creative Studio"
-theme: PaperMod
 
 publishDir: public
 
