@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Lumma Creative Studio"
 theme: "PaperMod"
 
+outputs:
+  home:
+    - HTML
+
+
 params:
   defaultTheme: light
   ShowReadingTime: false
