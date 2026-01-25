@@ -1,6 +1,3 @@
----
-title: "Lumma Creative Studio"
-layout: home
----
+# Lumma Creative Studio
 
 Welcome to Lumma Creative Studio.
