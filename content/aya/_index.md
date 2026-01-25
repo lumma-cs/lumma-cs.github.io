@@ -2,7 +2,7 @@
 title: "Aya"
 ---
 
-![Aya reading quietly](/images/aya/illustrations/aya-reading2.png)
+![Aya](/images/aya/illustrations/aya-abu-play.jpg)
 
 Aya is a gentle children’s content world created by **Lumma Creative Studio**.
 
