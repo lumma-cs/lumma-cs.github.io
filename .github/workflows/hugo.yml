@@ -51,6 +51,8 @@ jobs:
         run: |
           hugo \
             --config config.yaml \
+            --theme PaperMod \
+            --destination public \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}" 
       - name: Upload artifact
