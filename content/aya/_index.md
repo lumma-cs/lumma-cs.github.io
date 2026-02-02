@@ -4,11 +4,11 @@ title: "Aya"
 
 ![Aya](/images/aya/illustrations/aya-abu-play.jpg)
 
-Aya is a gentle children’s content world created by **Lumma Creative Studio**.
+Aya is a children’s content world created by **Lumma Creative Studio**.
 
 Through short videos, stories, and everyday moments, Aya helps children
 learn with joy, kindness, and meaning — in a way that feels safe,
-loving, and parent-approved.
+loving, and fun.
 
 Our content is designed especially for young children and families.
 
@@ -18,20 +18,20 @@ Our content is designed especially for young children and families.
 
 ![Aya Fun English logo](/images/aya/logos/ayaFE-NBG.png)
 
-**Aya Fun English** is short, playful English learning content created
-to help children enjoy learning a new language.
+AyaFunEnglish is a safe, gentle, and Islamic-friendly space where children build early English confidence in a warm and peaceful way.
+___
 
-Children are introduced to English through:
-- Simple words and phrases  
-- Fun, familiar situations  
-- Everyday moments children can relate to  
-- Gentle repetition that builds confidence  
+Types of Contents:
+• Short comprehensible input videos for young learners
+• Simple, fun vocabularies taught through play
+• Simple sentence patterns
+• Fun phrases and everyday expressions
+• Calm slide lessons for daily practice
 
-The focus of Aya Fun English is **joy first** — helping children feel
-comfortable and happy while learning, without pressure or stress.
+Our contents are carefully designed for kids, with soft visuals, slow pacing, and positive encouragement—perfect for home learning.
 
-This content is currently shared through short-form videos and will
-continue to grow into its own dedicated channels.
+### [AyaFunEnglish on YouTube](youtube.com/@ayafunenglish)
+### [AyaFunEnglish on Tiktok](tiktok.com/@ayafunenglish)
 
 ---
 
@@ -39,21 +39,19 @@ continue to grow into its own dedicated channels.
 
 ![Aya The Little Muslim logo](/images/aya/logos/ayaLM-BG.png)
 
-**Aya The Little Muslim** focuses on nurturing a child’s Islamic faith,
-values, and character in a gentle and loving way.
+With Mama, Papa, and Abu the kitten, Aya learns about faith, Islam and Allah through calm stories and simple lessons.
 
-Through calm storytelling and meaningful moments, children are
-introduced to:
-- Islamic manners and good character  
-- Love for Allah  
-- Gratitude, kindness, and empathy  
-- Faith as part of everyday life  
+Types of Contents:
+- Short Islamic stories for kids
+- Aqeedah & character lessons
+- Daily Sunnah duʿas
+- Gentle curiosity conversations
 
-This content is designed to feel warm, reassuring, and emotionally safe,
-supporting parents in teaching values and faith to their children.
+We try to make our contents based on the Noble Qur’an and authentic Sunnah, explained in a child-friendly way for young hearts. We try to adhere to the understanding of Athari/Hanbali school in terms of 'Aqeedah, Shafe'ii school in terms of Fiqh and the methodology of the righteous Salaf in Da'wah.
 
-Aya The Little Muslim will continue to grow as its own dedicated content
-space focused on Islamic teachings and values for young hearts.
+### [AyaLittleMuslim on YouTube](youtube.com/@ayalittlemuslim)
+### [AyaLittleMuslim on Tiktok](tiktok.com/@ayalittlemuslim)
+### [AyaLittleMuslim on Instagram](instagram.com/ayalittlemuslim)
 
 ---
 
