@@ -30,8 +30,8 @@ Types of Contents:
 
 Our contents are carefully designed for kids, with soft visuals, slow pacing, and positive encouragement—perfect for home learning.
 
-### [AyaFunEnglish on YouTube](youtube.com/@ayafunenglish)
-### [AyaFunEnglish on Tiktok](tiktok.com/@ayafunenglish)
+### [AyaFunEnglish on YouTube](https://youtube.com/@ayafunenglish)
+### [AyaFunEnglish on Tiktok](https://tiktok.com/@ayafunenglish)
 
 ---
 
@@ -49,9 +49,9 @@ Types of Contents:
 
 We try to make our contents based on the Noble Qur’an and authentic Sunnah, explained in a child-friendly way for young hearts. We try to adhere to the understanding of Athari/Hanbali school in terms of 'Aqeedah, Shafe'ii school in terms of Fiqh and the methodology of the righteous Salaf in Da'wah.
 
-### [AyaLittleMuslim on YouTube](youtube.com/@ayalittlemuslim)
-### [AyaLittleMuslim on Tiktok](tiktok.com/@ayalittlemuslim)
-### [AyaLittleMuslim on Instagram](instagram.com/ayalittlemuslim)
+### [AyaLittleMuslim on YouTube](https://youtube.com/@ayalittlemuslim)
+### [AyaLittleMuslim on Tiktok](https://tiktok.com/@ayalittlemuslim)
+### [AyaLittleMuslim on Instagram](https://instagram.com/ayalittlemuslim)
 
 ---
 
