@@ -1,2 +1,2 @@
-# lumma-cs.github.io
-Lumma Profile Page
+https://lumma-cs.github.io
+
