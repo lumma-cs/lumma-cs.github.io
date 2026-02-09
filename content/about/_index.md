@@ -7,7 +7,11 @@ and joyful educational content for children and families.
 
 Our work focuses on storytelling, learning, and values-based growth.
 
+## Contact Us
+
 Email: lummacreativestudio@gmail.com
+
+WhatsApp: +62 851-7791-0282
 
 ---
 
